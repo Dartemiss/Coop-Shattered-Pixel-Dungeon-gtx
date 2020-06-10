@@ -8,5 +8,3 @@ Go to Coop-Shattered-Pixel-Dungeon-gtx\coop-shattered-pixel-dungeon-gdx\shattere
 Check demo at:
 https://www.youtube.com/watch?v=pMfEUwlf8i8
 
-Download game at:
-https://www.dropbox.com/s/1sk3on84yb1qtbz/FalloutGO_WindowsMac.zip?dl=0
